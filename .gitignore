@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.env
+# stora mellanresultat och rådata hålls utanför git
+work/
+data/
+*.pkl
+*.npz
+*.tif
